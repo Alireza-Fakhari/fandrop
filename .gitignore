@@ -1,0 +1,27 @@
+# Build outputs
+bin/
+obj/
+**/publish/
+**/dist/
+*.exe
+*.dll
+*.pdb
+
+# IDE / user files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.rsuser
+
+# Secrets / local config
+.env
+*.pfx
+*.snk
+appsettings.*.local.json
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
