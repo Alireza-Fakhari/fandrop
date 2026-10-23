@@ -2,6 +2,8 @@
 
 **English** | [فارسی](README.fa.md)
 
+<p align="center"><a href="https://github.com/Alireza-Fakhari/fandrop/releases/latest/download/FanDrop-Setup.exe"><img src="https://img.shields.io/badge/Download-FanDrop%20for%20Windows-2563eb?style=for-the-badge&logo=windows&logoColor=white" alt="Download FanDrop for Windows" height="48"></a></p>
+
 Drag a file, hold a key, drop it on a wedge — done.
 FanDrop is a tiny Windows tray app that shows a radial "fan" of quick actions under your cursor while you drag a file from Explorer. Convert, compress, resize, zip or recycle files without opening another program.
 
@@ -23,7 +25,7 @@ FanDrop is a tiny Windows tray app that shows a radial "fan" of quick actions un
 
 ## Install
 
-1. Download **`FanDrop-Setup.exe`** from the [latest release](https://github.com/Alireza-Fakhari/fandrop/releases/latest).
+1. Download **`FanDrop-Setup.exe`** from the [latest release](https://github.com/Alireza-Fakhari/fandrop/releases/latest/download/FanDrop-Setup.exe).
 2. Run it (no admin rights needed). FFmpeg is bundled with the installer.
 3. FanDrop starts in the tray (bottom-right of the taskbar).
 

@@ -4,6 +4,8 @@
 
 [English](README.md) | **فارسی**
 
+<p align="center"><a href="https://github.com/Alireza-Fakhari/fandrop/releases/latest/download/FanDrop-Setup.exe"><img src="https://img.shields.io/badge/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-FanDrop%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D9%88%DB%8C%D9%86%D8%AF%D9%88%D8%B2-2563eb?style=for-the-badge&logo=windows&logoColor=white" alt="دانلود FanDrop برای ویندوز" height="48"></a></p>
+
 فایل را بکشید، یک کلید نگه دارید، روی یکی از گزینه‌ها رها کنید — تمام.
 FanDrop یک برنامهٔ کوچک ویندوزی است که در System Tray اجرا می‌شود و هنگام کشیدن (Drag) فایل از File Explorer، یک منوی دایره‌ای (بادبزنی) از کارهای سریع زیر نشانگر ماوس نشان می‌دهد. بدون باز کردن هیچ برنامهٔ دیگری فایل‌ها را تبدیل، فشرده، کوچک، ZIP یا حذف کنید.
 
@@ -25,7 +27,7 @@ FanDrop یک برنامهٔ کوچک ویندوزی است که در System Tray
 
 ## نصب
 
-۱. فایل **`FanDrop-Setup.exe`** را از [آخرین نسخه (Releases)](https://github.com/Alireza-Fakhari/fandrop/releases/latest) دانلود کنید.
+۱. فایل **`FanDrop-Setup.exe`** را از [آخرین نسخه](https://github.com/Alireza-Fakhari/fandrop/releases/latest/download/FanDrop-Setup.exe) دانلود کنید.
 ۲. آن را اجرا کنید (نیازی به دسترسی Admin نیست). FFmpeg همراه نصاب است.
 ۳. FanDrop در System Tray (گوشهٔ پایین‌راست نوار وظیفه) اجرا می‌شود.
 
