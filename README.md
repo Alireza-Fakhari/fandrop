@@ -6,7 +6,6 @@ Drag a file, hold a key, drop it on a wedge — done.
 FanDrop is a tiny Windows tray app that shows a radial "fan" of quick actions under your cursor while you drag a file from Explorer. Convert, compress, resize, zip or recycle files without opening another program.
 
 ![FanDrop screenshot](docs/screenshots/fan.png)
-<!-- Add a screenshot at docs/screenshots/fan.png -->
 
 ## Features
 
